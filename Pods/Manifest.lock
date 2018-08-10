@@ -1,0 +1,20 @@
+PODS:
+  - DropDown (2.3.2)
+  - SwiftKeychainWrapper (3.0.1)
+
+DEPENDENCIES:
+  - DropDown
+  - SwiftKeychainWrapper (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DropDown
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+
+PODFILE CHECKSUM: 0dfe61ed5e1098c06133d8a10c3679929093d0d8
+
+COCOAPODS: 1.5.3
